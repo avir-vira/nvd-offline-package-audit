@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+nvd-feeds/
+*.json.gz
+*.pkl
+
+*.xlsx
+*.csv
+*.log
+.env

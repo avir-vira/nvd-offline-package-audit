@@ -1,3 +1,4 @@
+# بررسی آفلاین CVE پکیج‌های لینوکس
 <p align="center">
   <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README.md">English</a> |
   <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README_FA.md">فارسی</a>
@@ -6,8 +7,6 @@
 <a id="persian"></a>
 
 ## فارسی
-
-# بررسی آفلاین CVE پکیج‌های لینوکس
 
 این پروژه یک ابزار آفلاین برای بررسی لیست پکیج‌های نصب‌شده روی سیستم‌های لینوکسی و استخراج CVEهای احتمالی مرتبط با آن‌هاست.
 

@@ -1,7 +1,7 @@
 # NVD Offline Package Audit
 <p align="center">
-  <a href="#english">English</a> |
-  <a href="#persian">فارسی</a>
+  <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README.md">English</a> |
+  <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README_FA.md">فارسی</a>
 </p>
 
 ---

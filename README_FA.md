@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README.md">English</a> |
+  <a href="https://github.com/avir-vira/nvd-offline-package-audit/blob/main/README_FA.md">فارسی</a>
+</p>
 
 <a id="persian"></a>
 

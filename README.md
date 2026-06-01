@@ -1,5 +1,14 @@
 # NVD Offline Package Audit
+<p align="center">
+  <a href="#english">English</a> |
+  <a href="#persian">فارسی</a>
+</p>
 
+---
+
+<a id="english"></a>
+
+## English
 Offline Linux package-to-CVE audit tool using local CPE database and local NVD JSON feeds.
 
 This tool takes a text file containing installed Linux packages, detects possible CPE matches, checks them against local NVD CVE feeds, and generates Excel and CSV reports.
